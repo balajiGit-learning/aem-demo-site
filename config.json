@@ -1,0 +1,27 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/QLAfBfzromvPvMhhu1D5vN/graphql",
+      "headers": {
+        "cs": {
+          "ac-channel-id": "bbfbd98d-9b34-4857-9619-89d14c426ec9",
+          "ac-environment-id": "QLAfBfzromvPvMhhu1D5vN",
+          "ac-price-book-id": "west_coast_inc",
+          "ac-scope-locale": "en-US"
+        }
+      },
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Production",
+        "store-id": 1,
+        "store-name": "ACO Demo",
+        "store-url": "https://www.aemshop.net",
+        "store-view-id": 1,
+        "store-view-name": "Default Store View",
+        "website-id": 1,
+        "website-name": "Main Website"
+      }
+    }
+  }
+}
